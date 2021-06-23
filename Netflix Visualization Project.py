@@ -6,13 +6,11 @@ pd.set_option("display.max_columns", 10)
 netflix_stocks = pd.read_csv("NFLX.csv")
 dowjones_stocks = pd.read_csv("DJI.csv")
 netflix_quarterly_stocks = pd.read_csv("NFLX_daily_by_quarter.csv")
-
 # 2017 is represented in the dataframes. "DJI" and "NFLX" is represented by months and "NFLX_daily_by_quarter" is represented by days. "DJI" and "NFLX" are the averages per month. "NFLX_daily_by_quarter" are the highs and lows of each business day. "netflix_stocks_quarterly" has a Quarter column, whereas "netflix_stocks"  does not have that column.
 
 netflix_stocks.rename(columns={"Adj Close": "Price"},inplace=True)
 netflix_quarterly_stocks.rename(columns={"Adj Close": "Price"},inplace=True)
 dowjones_stocks.rename(columns={"Adj Close": "Price"},inplace=True)
-print(netflix_quarterly_stocks.head(5))
 
 # Violinplot to visualize Netflix's quarterly data.
 ax = sns.violinplot(data=netflix_quarterly_stocks, x="Quarter", y="Price")
