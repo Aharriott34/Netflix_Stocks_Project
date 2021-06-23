@@ -50,7 +50,7 @@ earnings_by_quarter = [.0656,.12959,.18552,.29012]
 quarter_labels = ["2Q2017","3Q2017","4Q2017", "1Q2018"]
 
 # Revenue
-n = 1  # This is our first dataset (out of 2)
+n = 1  # First dataset
 t = 2 # Number of dataset
 d = 4 # Number of sets of bars
 w = 0.5 # Width of each bar
@@ -58,7 +58,7 @@ bars1_x = [t*element + w*n for element
              in range(d)]
 
 # Earnings
-n = 2  # This is our second dataset (out of 2)
+n = 2  # Second dataset 
 t = 2 # Number of dataset
 d = 4 # Number of sets of bars
 w = 0.5 # Width of each bar
