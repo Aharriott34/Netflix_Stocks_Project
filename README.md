@@ -4,19 +4,18 @@ A performance project to compare the stock data of Netflix in 2017. The data pri
 
 Built With:
 
-Python 3
+- Python 3
 Prerequisites:
 
 
 Python packages used for analyzation:
 
-Numpy
-Pandas
+- Pandas
 
 Python packages for visualization:
 
-Matplotlib
-Seaborn
+- Matplotlib
+- Seaborn
 
 
 Usage:
@@ -25,4 +24,6 @@ Usage:
 Python 3 was used to analyze the data that was found for the Netflix stock in 2017. Seaborn was then used to visaulize the findings.
 
 Visualizations:
+This chart shows the distribution of the Netflix stock in the business quarters.
+![Distribution of 2017 Netflix Stock Prices by Quarter](https://user-images.githubusercontent.com/78121835/132437089-8a687ac2-9f31-4ba0-9686-450780ea8d25.png)
 
