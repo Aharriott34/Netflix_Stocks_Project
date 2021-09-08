@@ -6,6 +6,12 @@ Built With:
 
 - Python 3
 Prerequisites:
+- [NFLX.csv](https://github.com/Aharriott34/Netflix_Stocks_Project/files/7125379/NFLX.csv)
+- [DJI.csv](https://github.com/Aharriott34/Netflix_Stocks_Project/files/7125380/DJI.csv)
+- [NFLX_daily_by_quarter.csv](https://github.com/Aharriott34/Netflix_Stocks_Project/files/7125381/NFLX_daily_by_quarter.csv)
+
+
+
 
 
 Python packages used for analyzation:
@@ -29,6 +35,9 @@ Visualizations:
 ![Netflix Earnings Per Share in Cents](https://user-images.githubusercontent.com/78121835/132437260-4bfac500-b48e-4fb5-9ed7-540500f56955.png)
 - This chart visualizes the closing stock price of Dow Jones and Netflix for each month for 2017.
 ![Netflix vs Dow Jones in 2017](https://user-images.githubusercontent.com/78121835/132437588-216fbb4b-5769-47ba-89d7-d22635700704.png)
+- This chart shows the revenue and earnings of Netflix in the fiscal year of 2017.
+![Netlfix Earnings and Revenue Reports](https://user-images.githubusercontent.com/78121835/132437859-8d726865-0c6a-404f-9a83-0bfb5c949c99.png)
+
 
 
 
