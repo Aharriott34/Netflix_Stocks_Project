@@ -7,11 +7,12 @@ Built With:
 Python 3
 Prerequisites:
 
+
 Python packages used for analyzation:
 
 Numpy
 Pandas
-Scipy.stats
+
 Python packages for visualization:
 
 Matplotlib
