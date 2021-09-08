@@ -27,5 +27,8 @@ Visualizations:
 ![Distribution of 2017 Netflix Stock Prices by Quarter](https://user-images.githubusercontent.com/78121835/132437089-8a687ac2-9f31-4ba0-9686-450780ea8d25.png)
 - This chart displays the actual and estimated earnings of Netflix.
 ![Netflix Earnings Per Share in Cents](https://user-images.githubusercontent.com/78121835/132437260-4bfac500-b48e-4fb5-9ed7-540500f56955.png)
+- This chart visualizes the closing stock price of Dow Jones and Netflix for each month for 2017.
+![Netflix vs Dow Jones in 2017](https://user-images.githubusercontent.com/78121835/132437588-216fbb4b-5769-47ba-89d7-d22635700704.png)
+
 
 
