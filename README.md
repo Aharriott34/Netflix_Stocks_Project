@@ -5,6 +5,7 @@ Description:
 Built With:
 
 - Python 3
+- Microsoft Excel
 
 Prerequisites:
 - [NFLX.csv](https://github.com/Aharriott34/Netflix_Stocks_Project/files/7125379/NFLX.csv)
